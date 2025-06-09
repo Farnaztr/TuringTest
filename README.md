@@ -44,4 +44,4 @@ Which one is more likely to be human? (A/B):
 
 ---
 
-*Created by[https://github.com/Farnaztr]*
+*Created by[FarnazTr](https://github.com/Farnaztr)*
