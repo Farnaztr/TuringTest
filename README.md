@@ -25,7 +25,7 @@ Which one is more likely to be human? (A/B):
 ## How to Run the Program
 
 1. **Download the executable file:**  
-   [Download HumanCheck.exe](./HumanCheck.exe)
+   [Download HumanCheck.exe](https://github.com/Farnaztr/TuringTest/HumanCheck.exe)
 
 2. **Run the program:**  
 
