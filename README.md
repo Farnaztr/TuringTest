@@ -22,10 +22,12 @@ B: Environmental light patterns are recorded and used to simulate comfort in vir
 
 Which one is more likely to be human? (A/B):
 
+---
+
 ## How to Run the Program
 
 1. **Download the executable file:**  
-   [Download HumanCheck.exe (https://github.com/Farnaztr/TuringTest/blob/main/Human-Check.exe)]
+   [Download HumanCheck.exe]((https://github.com/Farnaztr/TuringTest/blob/main/Human-Check.exe))
 
 2. **Run the program:**  
 
