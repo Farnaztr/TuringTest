@@ -2,8 +2,11 @@
 
 Welcome to **Human-Check**, a simple yet thought-provoking console game inspired by the famous [Turing Test](https://en.wikipedia.org/wiki/Turing_test).  
 Your mission? To distinguish between **human** and **machine-generated** messages based on subtle clues in their responses.
-  <img src="https://img.shields.io/badge/Project-Human-Check-darkpurple" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-farnaztr-red" />
+  <img src="https://img.shields.io/badge/Project-Human-Check-pink" />
+  <img src="https://img.shields.io/github/stars/farnaztr/TuringTest?style=social" />
+</p>
 ---
 
 ## How to play?
