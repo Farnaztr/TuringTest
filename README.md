@@ -2,6 +2,7 @@
 
 Welcome to **Human-Check**, a simple yet thought-provoking console game inspired by the famous [Turing Test](https://en.wikipedia.org/wiki/Turing_test).  
 Your mission? To distinguish between **human** and **machine-generated** messages based on subtle clues in their responses.
+  <img src="https://img.shields.io/badge/Project-Human-Check-darkpurple" />
 
 ---
 
@@ -15,7 +16,7 @@ Your mission? To distinguish between **human** and **machine-generated** message
 
 ---
 
-## 🔍 Sample question
+## Sample question
 
 A: I miss the way the sunlight used to hit my window at 5 PM. It felt like home.
 B: Environmental light patterns are recorded and used to simulate comfort in virtual settings.
