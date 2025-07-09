@@ -4,9 +4,10 @@ Welcome to **Human-Check**, a simple yet thought-provoking console game inspired
 Your mission? To distinguish between **human** and **machine-generated** messages based on subtle clues in their responses.
 <p align="center">
   <img src="https://img.shields.io/badge/Author-farnaztr-red" />
-  <img src="https://img.shields.io/badge/Project-Human-Check-pink" />
+  <img src="https://img.shields.io/badge/Project-HumanCheck-pink" />
   <img src="https://img.shields.io/github/stars/farnaztr/TuringTest?style=social" />
 </p>
+
 ---
 
 ## How to play?
