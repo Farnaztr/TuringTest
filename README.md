@@ -38,7 +38,6 @@ Which one is more likely to be human? (A/B):
 
 3. **Enjoy the challenge:**  
 
-
 ---
 
 
